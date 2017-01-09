@@ -1,8 +1,10 @@
 # babyloninnode
 SOLUTION: .babylon files, exported from blender, loading in NodeJS, via dynamic MIME type.
 
-Two example requests are included:
+Two example requests included:
+
    1) .babylon using BABYLON AssetsManager
+   
    2) .babylon using BABYLON SceneLoader.ImportMesh
    
 Dynamic MIME types in Node.js:
