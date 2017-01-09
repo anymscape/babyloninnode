@@ -40,7 +40,7 @@ After clone, with node installed, at root, type in command line: node server
 ## Credit: 
 A great blog tutorial by Kevin Chisholm showed how to set up dynamic Mime Types in NodeJS:
 https://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-with-node-js-part-iv/
-It provides a very good Node.js template for setting up a simple standalone node/babylon.js server. 
+. It provides a very good baseline Node.js template for node/babylon.js server, if you need one. 
 
 ## Result: 
 3D in Node.js thanks to BabylonJS: http://babylonjs.com/ and Blender: https://www.blender.org/
