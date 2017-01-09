@@ -1,5 +1,5 @@
 # babyloninnode
-SOLUTION: .babylon files, exported from blender, loading in NodeJS, via dynamic MIME type.
+ISOLATED SOLUTION: showing .babylon files, exported from blender, loading in NodeJS, via dynamic MIME type.
 
 Two example requests included:
 
