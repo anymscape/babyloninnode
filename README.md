@@ -43,7 +43,7 @@ https://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-wi
 It provides a very good Node.js template for setting up a simple standalone node/babylon.js server. 
 
 ## Result: 
-3D in Node.js thanks to BabylonJS: http://babylonjs.com/
+3D in Node.js thanks to BabylonJS: http://babylonjs.com/ and Blender: https://www.blender.org/
  
 
 License MIT. 
