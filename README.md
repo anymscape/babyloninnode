@@ -11,19 +11,19 @@ Two example requests included:
 
    1) ADD Mime type into an array of all supported MIME types:
 
-		var extensions = [".babylon" : "application/babylon"] 
+		var extensions = [".babylon" : "application/babylon",...] 
 
    2) Within Node createServer() handler:
 
         http.createServer(function(){...});
 
-   3) Initialize a dynamic mimeType variable from given file type:
+   3) Initialize a dynamic mimeType variable from file type in request url:
 
         var fileName = path.basename(req.url) || 'index.html',
             ext = path.extname(fileName);
         var mimeType = extensions[ext];     
  
-   4) Populate response Content-type:
+   4) Populate mimeType in response Content-type:
 
 		fs.readFile(filePath,function(err,cont){
 			if(!err){
