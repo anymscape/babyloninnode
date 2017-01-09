@@ -43,7 +43,7 @@ https://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-wi
 . It provides a very good baseline Node.js template for node/babylon.js server, if you need one. 
 
 ## Result: 
-3D (and VR) in Node.js, thanks to BabylonJS: http://babylonjs.com/ and Blender: https://www.blender.org/
+3D (and VR) in Node.js, thanks to Blender: https://www.blender.org/ and BabylonJS: http://babylonjs.com/.
  
 
 License MIT. 
