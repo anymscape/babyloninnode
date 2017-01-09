@@ -36,15 +36,15 @@ Two example requests included:
 
 ## Usage:
 After clone, with node installed, at root, type in command line: node server
+  
+## Credit: 
+A great blog tutorial by Kevin Chisholm showed how to set up dynamic Mime Types in NodeJS:
+https://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-with-node-js-part-iv/
+It provides a very good Node.js template for setting up a simple standalone node/babylon.js server. 
 
 ## Result: 
 3D in Node.js thanks to BabylonJS: http://babylonjs.com/
-   
-## Credit: 
-Original node tutorial by Kevin Chisholm showed dynamic Mime Types setup in NodeJS:
-https://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-with-node-js-part-iv/
-It provides a very good Node.js template for setting up a simple (standalone) node/babylon.js server. 
-If you want a nice babylon.js server, just include the solution above to that boilerplate, to send NodeJS into 3D with BabylonJS.
+ 
 
 License MIT. 
 njoy.
