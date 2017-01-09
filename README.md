@@ -7,7 +7,7 @@ Two example requests included:
    
    2) .babylon using BABYLON SceneLoader.ImportMesh
    
-# Dynamic MIME types in Node.js:
+## Dynamic MIME types in Node.js:
 
    1) ADD Mime type into an array of all supported MIME types:
 
@@ -34,13 +34,13 @@ Two example requests included:
 			}
 		});
 
-# Usage:
+## Usage:
 After clone, with node installed, at root, type in command line: node server
 
-# Result: 
+## Result: 
 3D in Node.js thanks to BabylonJS: http://babylonjs.com/
    
-# Credit: 
+## Credit: 
 Original node tutorial by Kevin Chisholm showed dynamic Mime Types setup in NodeJS:
 https://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-with-node-js-part-iv/
 It provides a very good Node.js template for setting up a simple (standalone) node/babylon.js server. 
